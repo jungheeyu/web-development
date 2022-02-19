@@ -1,8 +1,9 @@
 <h1 align="center">Dice Game</h1>
 <br>
 <ul>
- <li><h2>Generate random numbers in index.js and modify dice images to show generated numbers</h2></li>
+ <li><h2>Generate random numbers and modify dice images to show generated numbers</h2></li>
  <li><h2>Display message about the game result</h2></li>
+ <li><h2>Use HTML, CSS, JavaScript</h2></li>
  <li><h2>Refresh the webpage to see more result</h2></li>
 </ul>
 <br>
