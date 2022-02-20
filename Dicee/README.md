@@ -7,5 +7,5 @@
  <li><h2>Refresh the webpage to see more result</h2></li>
 </ul>
 <br>
-<h2 align="center"><a target="_blank" href="https://raw.githack.com/jungheeyu/web-development/main/Dicee/dicee.html">Run the game</a></h2>
+<h1 align="center"><a target="_blank" href="https://raw.githack.com/jungheeyu/web-development/main/Dicee/dicee.html">Run the game</a></h1>
 <br>
