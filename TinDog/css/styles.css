@@ -167,5 +167,10 @@ p {
 /* Footer Section */
 .footer-icon {
   padding: 2% 1%;
+  color: #000;
+}
 
+.copyright {
+  font-size: 0.7rem;
+  margin-bottom: 0;
 }
