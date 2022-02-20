@@ -5,5 +5,5 @@
  <li><h2>Use HTML, CSS, and BootStrap framework</h2></li>
 </ul>
 <br>
-<h2 align="center"><a target="_blank" href="https://raw.githack.com/jungheeyu/web-development/main/TinDog/index.html">Explore Website</a></h2>
+<h1 align="center"><a target="_blank" href="https://raw.githack.com/jungheeyu/web-development/main/TinDog/index.html">Explore Website</a></h1>
 <br>
