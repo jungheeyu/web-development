@@ -1,4 +1,4 @@
-<h1 align="center">Dice Game</h1>
+<h1 align="center">Dicee Game</h1>
 <br>
 <ul>
  <li><h2>Generate random numbers and modify dice images to show generated numbers</h2></li>
