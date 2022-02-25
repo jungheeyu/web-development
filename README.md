@@ -1,4 +1,4 @@
-<h1 align="center"> Web Development Projects</h1>
+<h1> Web Development Projects</h1>
 
 <ul>
   <li><h2><a target="_blank" href="https://github.com/jungheeyu/web-development/blob/main/TinDog/README.md">TinDog</a></h2></li>
