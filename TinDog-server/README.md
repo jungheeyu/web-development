@@ -1,4 +1,4 @@
-<h1 align="center">TinDog-server</h1>
+<h1 align="center">TinDog</h1>
 <br>
 <ul>
  <li><h2>Created a parody website for online dog dating</h2></li>
