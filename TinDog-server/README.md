@@ -6,7 +6,9 @@
  <li><h2>Built website structure with <em>HTML</em>, designed layout with <em>CSS</em> and <em>Bootstrap</em></h2></li>
  <li><h2>Added back-end features with <em>Node.js</em> and <em>Express</em></h2></li>
  <li><h2>Used <em>Mailchimp API</em> to collect and store data</h2></li>
+ <li><h2><a target="_blank" href="https://hidden-reef-38435.herokuapp.com/">Explore Website</a></h2></li>
+  <img src="https://github.com/jungheeyu/projects/blob/main/TinDog-server/public/images/tindog.gif">
 </ul>
 <br>
-<h1 align="center"><a target="_blank" href="https://hidden-reef-38435.herokuapp.com/">Explore Website</a></h1>
+
 <br>
